@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		real larg, compri, area
+		real larg, compri, area
 
 		escreva("Digite a largura do terreno: ")
 		leia(larg)
@@ -34,8 +34,8 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 338; 
- * @PONTOS-DE-PARADA = ;
+ * @POSICAO-CURSOR = 27; 
+ * @PONTOS-DE-PARADA = 16;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
